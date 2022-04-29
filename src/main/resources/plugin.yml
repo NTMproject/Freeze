@@ -1,0 +1,7 @@
+name: Freeze
+version: '${project.version}'
+main: by.quaks.ntm.main
+api-version: 1.18
+authors: [ qu4ks ]
+description: Freeze plugin designed specifically for NTM Project Minecraft server.
+website: NTM NTH
